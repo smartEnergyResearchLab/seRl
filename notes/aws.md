@@ -2,7 +2,7 @@
 
 # May favourite package is not there
 
-See [aws_loadPackages.R](../blob/main/R/aws_loadPackages.R)
+See [aws_loadPackages.R](../R/aws_loadPackages.R)
 
 # Projects folder/drive 'disconnects' from 'P'
 
