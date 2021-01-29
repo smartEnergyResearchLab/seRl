@@ -5,3 +5,7 @@ R package to support analysis of SERL data, particularly on the SERL AWS platfor
  * To use: Clone, build, install.
 
  * Ideally: fork & contribute :-)
+
+# Notes
+
+ * Using the SERL AWS
