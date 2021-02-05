@@ -25,7 +25,7 @@ aws_loadPackages <- function(..., archive = "http://nexus.serlresearch.ac.uk:808
   # Install if required
   if(length(newPackages)){
     message("Installing missing packages from ", archive)
-    utils::install.packages(newPackage,
+    utils::install.packages(newPackages,
                             repos = archive,
                             dependencies = TRUE)}
 
