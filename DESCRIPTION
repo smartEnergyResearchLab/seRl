@@ -1,12 +1,18 @@
 Package: seRl
 Title: Package to support SERL data analysis
 Version: 0.1
+Date: 2021-01-28
 Authors@R: 
-    person(given = "Ben",
+    c(person(given = "Ben",
            family = "Anderson",
            role = c("aut", "cre"),
            email = "b.anderson@soton.ac.uk",
-           comment = c(ORCID = "0000-0003-2092-4406"))
+           comment = c(ORCID = "0000-0003-2092-4406")),
+    person(given = "Ellen",
+           family = "Webborn",
+           role = c("aut"),
+           email = "e.webborn@ucl.ac.uk")
+           )
 Description: Provides a set of utility functions of use in processing and analysing the SERL data. Also includes functions to make use of the AWS easier.
 License: MIT License
 Encoding: UTF-8
