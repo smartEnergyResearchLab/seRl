@@ -20,4 +20,4 @@ Solution: Any of:
  * close apps you don't need
  * use the Edition 3 monthly data (for half-hourly reads)
  * only read in the data variables (columns) you need
- * improve your code (try using [data.table](https://rdatatable.gitlab.io/data.table/) and/or [drake](https://books.ropensci.org/drake/))
+ * improve your code (for R try using [data.table](https://rdatatable.gitlab.io/data.table/) and/or [drake](https://books.ropensci.org/drake/))
