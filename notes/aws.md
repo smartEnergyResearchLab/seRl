@@ -1,6 +1,6 @@
 # Using the SERL AWS
 
-## My favourite package is not there
+## My favourite R package is not there
 
 See [aws_loadPackages.R](../R/aws_loadPackages.R)
 
